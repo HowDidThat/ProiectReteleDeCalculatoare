@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<fleet>
+  <train>
+  <ID>D0001</ID>
+  <stations>
+    <trip>
+      <timestart>0800</timestart>
+      <startStation>Iasi</startStation>
+      <endStation>Letcani</endStation>
+      <duration>15</duration>
+    </trip>
+    <trip>
+      <timestart>0820</timestart>
+      <startStation>Letcani</startStation>
+      <endStation>Sarca</endStation>
+      <duration>10</duration>
+    </trip>
+    <trip>
+      <timestart>0835</timestart>
+      <startStation>Sarca</startStation>
+      <endStation>Targu Frumos</endStation>
+      <duration>20</duration>
+    </trip>
+    <trip>
+      <timestart>0900</timestart>
+      <startStation>Targu Frumos</startStation>
+      <endStation>Pascani</endStation>
+      <duration>15</duration>
+      </trip>
+      <trip>
+        <timestart>0905</timestart>
+        <startStation>Pascani</startStation>
+        <endStation>Lespezi</endStation>
+        <duration>15</duration>
+        </trip>
+        <trip>
+          <timestart>0930</timestart>
+          <startStation>Lespezi</startStation>
+          <endStation>Suceava</endStation>
+          <duration>15</duration>
+          </trip>
+    </stations>
+  </train>
+  <train>
+  <ID>D0002</ID>
+  <stations>
+    <trip>
+      <timestart>0900</timestart>
+      <startStation>Cosmejti</startStation>
+      <endStation>Cristesti</endStation>
+      <duration>34</duration>
+    </trip>
+    <trip>
+      <timestart>1100</timestart>
+      <startStation>Iasi</startStation>
+      <endStation>Pascani</endStation>
+      <duration>69</duration>
+    </trip>
+  </train>
+  <train>
+  <ID>D0003</ID>
+  <stations>
+    <trip>
+    <timestart>1100</timestart>
+    <startStation>Petrosu</startStation>
+    <endStation>Pascani</endStation>
+    <duration>55</duration>
+  </trip>
+  </stations>
+  </train>
+<train>
+<ID>D0004</ID>
+<stations>
+  <trip>
+<timestart>0630</timestart>
+<startStation>Harlau</startStation>
+<endStation>Ciurea</endStation>
+<duration>65</duration>
+</trip>
+</stations>
+</train>
+<train>
+<ID>D0005</ID>
+<stations>
+  <trip>
+<timestart>1122</timestart>
+<startStation>123</startStation>
+<endStation>123</endStation>
+<duration>123</duration>
+</trip>
+</stations>
+</train>
+<train>
+<ID>D0006</ID>
+<stations>
+  <trip>
+<timestart>0400</timestart>
+<startStation>Iasi</startStation>
+<endStation>Pascani</endStation>
+<duration>60</duration>
+</trip>
+<trip>
+<timestart>0600</timestart>
+<startStation>Pascani</startStation>
+<endStation>Iasi</endStation>
+<duration>60</duration>
+</trip>
+</stations>
+</train>
+<train>
+<ID>D0090</ID>
+<stations>
+  <trip>
+    <timestart>1900</timestart>
+    <startStation>Constanta</startStation>
+    <endStation>Bucuresti</endStation>
+    <duration>15</duration>
+  </trip>
+  <trip>
+    <timestart>1930</timestart>
+    <startStation>Bucuresti</startStation>
+    <endStation>Alba Iulia</endStation>
+    <duration>10</duration>
+  </trip>
+  <trip>
+    <timestart>1950</timestart>
+    <startStation>Alba Iulia</startStation>
+    <endStation>Bacau</endStation>
+    <duration>20</duration>
+  </trip>
+  <trip>
+    <timestart>2020</timestart>
+    <startStation>Bacau</startStation>
+    <endStation>Brasov</endStation>
+    <duration>20</duration>
+    </trip>
+    <trip>
+      <timestart>2050</timestart>
+      <startStation>Brasov</startStation>
+      <endStation>Suceava</endStation>
+      <duration>15</duration>
+      </trip>
+      <trip>
+        <timestart>2110</timestart>
+        <startStation>Suceava</startStation>
+        <endStation>Iasi</endStation>
+        <duration>15</duration>
+        </trip>
+  </stations>
+</train>
+</fleet>
